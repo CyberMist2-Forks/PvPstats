@@ -4,18 +4,18 @@
 $server_name = "TrinityCore";
 
 # Your server url
-$server_url = "http://www.trinitycore.org/";
+$server_url = "https://www.trinitycore.org/";
 
 # Your server logo img url (optional)
 $server_logo = "img/PvPstats.png";
 
 # Your server armory url including character name param
 # (set it blank if you don't have it)
-$armory_url = "http://www.yourserver.org/armory/character.php?n=";
+$armory_url = "https://www.yourserver.org/armory/character.php?n=";
 
 # Your server armory url including guild name param
 # (set it blank if you don't have it)
-$guild_armory_url = "http://www.yourserver.org/armory/guild.php?n=";
+$guild_armory_url = "https://www.yourserver.org/armory/guild.php?n=";
 
 # The date PvPstats system is online from
 $online_from = "01/08/2014";
@@ -39,7 +39,7 @@ $db = new mysqli("localhost","root","password","characters");
 $charset = "utf8";
 
 # Dates and times format
-# Reference: http://php.net/manual/en/function.date.php
+# Reference: https://php.net/manual/en/function.date.php
 $date_format = "Y-m-d";
 $time_format = "H:i:s";
 

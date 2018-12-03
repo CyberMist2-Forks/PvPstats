@@ -75,11 +75,11 @@ or you can donate to support us
 
 ## Live preview
 
-Do you want to see PvPstats in action? [See who is using PvPstats](http://shinworld.altervista.org/PvPstats/).
+Do you want to see PvPstats in action? [See who is using PvPstats](https://shinworld.altervista.org/PvPstats/).
 
 ## Screenshots
 
-![PvPstats Index](http://shinworld.altervista.org/PvPstats/img/index.png "PvPstats Index")
-![PvPstats BattleGround search](http://shinworld.altervista.org/PvPstats/img/battleground1.png "PvPstats BattleGround search")
-![PvPstats BattleGround score](http://shinworld.altervista.org/PvPstats/img/battleground2.png "PvPstats BattleGround score")
-![PvPstats Top100](http://shinworld.altervista.org/PvPstats/img/top100.png "PvPstats Top100")
+![PvPstats Index](https://shinworld.altervista.org/PvPstats/img/index.png "PvPstats Index")
+![PvPstats BattleGround search](https://shinworld.altervista.org/PvPstats/img/battleground1.png "PvPstats BattleGround search")
+![PvPstats BattleGround score](https://shinworld.altervista.org/PvPstats/img/battleground2.png "PvPstats BattleGround score")
+![PvPstats Top100](https://shinworld.altervista.org/PvPstats/img/top100.png "PvPstats Top100")
